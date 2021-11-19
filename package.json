@@ -1,0 +1,23 @@
+{
+  "name": "airport-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadegeTenku/Airport-Object.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NadegeTenku/Airport-Object/issues"
+  },
+  "homepage": "https://github.com/NadegeTenku/Airport-Object#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
