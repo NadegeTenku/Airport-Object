@@ -3,7 +3,7 @@ class airplane {
         this.capacity = capacity
         
         this.valid_capacity = function () {
-            if (this.capacity > 0 && this.capacity < 163){
+            if (this.capacity > 0 && this.capacity < 163) {
                 return true
             }
             else {
