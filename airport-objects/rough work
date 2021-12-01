@@ -1,0 +1,8 @@
+ this.airportname = function () {
+            expect ('this.airportname.for departure'); {return authorized}
+            or {return unauthorized}
+
+            expect ('this.airportname.for landing'); {return authorized}
+            or {return unauthorized}
+            }
+        }
