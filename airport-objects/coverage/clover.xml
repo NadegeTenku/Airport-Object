@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1637629376675" clover="3.2.0">
+  <project timestamp="1637629376675" name="All files">
+    <metrics statements="23" coveredstatements="20" conditionals="8" coveredconditionals="4" methods="9" coveredmethods="8" elements="40" coveredelements="32" complexity="0" loc="23" ncloc="23" packages="1" files="5" classes="5"/>
+    <file name="Airplane.js" path="/Users/maguina/Desktop/Multiverse/Airport-Object/airport-objects/Airplane.js">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="Airport0.js" path="/Users/maguina/Desktop/Multiverse/Airport-Object/airport-objects/Airport0.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="Bag.js" path="/Users/maguina/Desktop/Multiverse/Airport-Object/airport-objects/Bag.js">
+      <metrics statements="6" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+    </file>
+    <file name="Crew.js" path="/Users/maguina/Desktop/Multiverse/Airport-Object/airport-objects/Crew.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="Person.js" path="/Users/maguina/Desktop/Multiverse/Airport-Object/airport-objects/Person.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

@@ -4,8 +4,10 @@
   "description": "",
   "main": "Airplane.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "test:report": "jest --coverage=true"
   },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
